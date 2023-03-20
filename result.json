@@ -1,0 +1,218 @@
+[
+    {
+        "index": "0",
+        "xlDataKey": "- Void Orders",
+        "xlAmount": 0,
+        "csvDataKey": "ALLOWANCE_AMT",
+        "csvAmount": 0,
+        "DrillDownDesc": "Not Found"
+    },
+    {
+        "index": "3",
+        "xlDataKey": "GROSS SALES",
+        "xlAmount": 5375.68,
+        "csvDataKey": "AUDIT_READING_DIFF_AMT",
+        "csvAmount": 5375.68,
+        "DrillDownDesc": "Not Found"
+    },
+    {
+        "index": "23",
+        "xlDataKey": "- Coupons",
+        "xlAmount": 642.18,
+        "csvDataKey": "COUPON_AMT",
+        "csvAmount": 642.18,
+        "DrillDownDesc": "Not Found"
+    },
+    {
+        "index": "31",
+        "xlDataKey": "- Debit Card",
+        "xlAmount": 144.87,
+        "csvDataKey": "DEBIT_CARD_AMT",
+        "csvAmount": 144.87,
+        "DrillDownDesc": "Not Found"
+    },
+    {
+        "index": "35",
+        "xlDataKey": "- Discounts",
+        "xlAmount": 16.34,
+        "csvDataKey": "DISCOUNT_AMT",
+        "csvAmount": 16.34,
+        "DrillDownDesc": "Not Found"
+    },
+    {
+        "index": "376",
+        "xlDataKey": "- American Express",
+        "xlAmount": 88.08,
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": 88.08,
+        "DrillDownDesc": "American Express "
+    },
+    {
+        "index": "379",
+        "xlDataKey": "- Discover",
+        "xlAmount": 5.68,
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": 5.68,
+        "DrillDownDesc": "Discover "
+    },
+    {
+        "index": "380",
+        "xlDataKey": "- DoorDash",
+        "xlAmount": 112.88,
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": 112.88,
+        "DrillDownDesc": "DoorDash "
+    },
+    {
+        "index": "381",
+        "xlDataKey": "- EBT Cash",
+        "xlAmount": 56,
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": 56,
+        "DrillDownDesc": "EBT Cash "
+    },
+    {
+        "index": "382",
+        "xlDataKey": "- EBT Food Stamps",
+        "xlAmount": 407.19,
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": 407.19,
+        "DrillDownDesc": "EBT Food Stamps "
+    },
+    {
+        "index": "383",
+        "xlDataKey": "- Master Card",
+        "xlAmount": 375.6,
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": 375.6,
+        "DrillDownDesc": "Master Card "
+    },
+    {
+        "index": "384",
+        "xlDataKey": "- Postmates",
+        "xlAmount": 114.19,
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": 114.19,
+        "DrillDownDesc": "Postmates "
+    },
+    {
+        "index": "385",
+        "xlDataKey": "- Uber Eats",
+        "xlAmount": 21.55,
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": 21.55,
+        "DrillDownDesc": "Uber Eats "
+    },
+    {
+        "index": "10904",
+        "xlDataKey": "1 Breakfast",
+        "xlAmount": 711.65,
+        "csvDataKey": "LIST_DAYPART_SALES_AMT",
+        "csvAmount": 711.65,
+        "DrillDownDesc": "1 Breakfast "
+    },
+    {
+        "index": "10906",
+        "xlDataKey": "3 Afternoon",
+        "xlAmount": 815.19,
+        "csvDataKey": "LIST_DAYPART_SALES_AMT",
+        "csvAmount": 815.19,
+        "DrillDownDesc": "3 Afternoon "
+    },
+    {
+        "index": "10907",
+        "xlDataKey": "4 Dinner",
+        "xlAmount": 851.56,
+        "csvDataKey": "LIST_DAYPART_SALES_AMT",
+        "csvAmount": 851.56,
+        "DrillDownDesc": "4 Dinner "
+    },
+    {
+        "index": "10908",
+        "xlDataKey": "5 LateNight",
+        "xlAmount": 528.37,
+        "csvDataKey": "LIST_DAYPART_SALES_AMT",
+        "csvAmount": 528.37,
+        "DrillDownDesc": "5 LateNight "
+    },
+    {
+        "index": "10909",
+        "xlDataKey": "6 Graveyard",
+        "xlAmount": 110.78,
+        "csvDataKey": "LIST_DAYPART_SALES_AMT",
+        "csvAmount": 110.78,
+        "DrillDownDesc": "6 Graveyard "
+    },
+    {
+        "index": "10910",
+        "xlDataKey": "7 Early Breakfast",
+        "xlAmount": 107.5,
+        "csvDataKey": "LIST_DAYPART_SALES_AMT",
+        "csvAmount": 107.5,
+        "DrillDownDesc": "7 Early Breakfast "
+    },
+    {
+        "index": "10928",
+        "xlDataKey": "To Go",
+        "xlAmount": 854.09,
+        "csvDataKey": "LIST_DESTINATION_SALES_AMT",
+        "csvAmount": 854.09,
+        "DrillDownDesc": "CARRY OUT "
+    },
+    {
+        "index": "10929",
+        "xlDataKey": "Delivery",
+        "xlAmount": 227.04,
+        "csvDataKey": "LIST_DESTINATION_SALES_AMT",
+        "csvAmount": 227.04,
+        "DrillDownDesc": "DELIVERY "
+    },
+    {
+        "index": "10931",
+        "xlDataKey": "Eat In",
+        "xlAmount": 478.39,
+        "csvDataKey": "LIST_DESTINATION_SALES_AMT",
+        "csvAmount": 478.39,
+        "DrillDownDesc": "EAT IN "
+    },
+    {
+        "index": "10964",
+        "xlDataKey": "99998-Employee Disc 20%-CPN",
+        "xlAmount": 2.72,
+        "csvDataKey": "LIST_DISCOUNTS_AMT",
+        "csvAmount": 2.72,
+        "DrillDownDesc": "99998-Employee Disc 20%-CPN "
+    },
+    {
+        "index": "10966",
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": 5.33,
+        "csvDataKey": "LIST_DISCOUNTS_AMT",
+        "csvAmount": 5.33,
+        "DrillDownDesc": "99999-Senior Disc 10%-DISC "
+    },
+    {
+        "index": "10969",
+        "xlDataKey": "OLO $ Off",
+        "xlAmount": 8.29,
+        "csvDataKey": "LIST_DISCOUNTS_AMT",
+        "csvAmount": 8.29,
+        "DrillDownDesc": "OLO $ Off "
+    },
+    {
+        "index": "11142",
+        "xlDataKey": "- Sales Tax",
+        "xlAmount": 373.91,
+        "csvDataKey": "PAID_SALES_TAX_AMT",
+        "csvAmount": 373.91,
+        "DrillDownDesc": "Not Found"
+    },
+    {
+        "index": "11190",
+        "xlDataKey": "Void Items",
+        "xlAmount": 157.88,
+        "csvDataKey": "VOIDED_ITEMS_AMT",
+        "csvAmount": 157.88,
+        "DrillDownDesc": "Not Found"
+    }
+]
