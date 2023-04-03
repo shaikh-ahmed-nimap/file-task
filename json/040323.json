@@ -1,0 +1,3158 @@
+[
+    {
+        "xlDataKey": "GROSS SALES",
+        "xlAmount": "$5,247.26",
+        "csvDataKey": "AUDIT_READING_DIFF_AMT",
+        "csvAmount": "5247.2600",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Cancelled Items",
+        "xlAmount": "$1,177.35",
+        "csvDataKey": "CANCELLED_ITEMS_AMT",
+        "csvAmount": "1177.3500",
+        "Qty": 431,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Cancelled Items",
+        "xlAmount": "$1,177.35",
+        "csvDataKey": "CANCELLED_ITEMS_CNT",
+        "csvAmount": "431.0000",
+        "Qty": 431,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "Expected Deposit",
+        "xlAmount": "$1,629.78",
+        "csvDataKey": "CASH_1_AMT",
+        "csvAmount": "1629.7800",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Expected Deposit",
+        "xlAmount": "$1,629.78",
+        "csvDataKey": "CASH_AMT",
+        "csvAmount": "1629.7800",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Cash/Over Short",
+        "xlAmount": "$1,978.23",
+        "csvDataKey": "CASH_OVER_SHORT_CALC",
+        "csvAmount": "1978.2300",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Coupons",
+        "xlAmount": "$477.60",
+        "csvDataKey": "COUPON_AMT",
+        "csvAmount": "477.6000",
+        "Qty": 144,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Coupons",
+        "xlAmount": "$477.60",
+        "csvDataKey": "COUPON_CNT",
+        "csvAmount": "144.0000",
+        "Qty": 144,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Coupons",
+        "xlAmount": "$477.60",
+        "csvDataKey": "CUSTOMER_COUPONS_AMT",
+        "csvAmount": "-477.6000",
+        "Qty": 144,
+        "drillDownDesc": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Coupons",
+        "xlAmount": "$477.60",
+        "csvDataKey": "CUSTOMER_COUPONS_CNT",
+        "csvAmount": "144.0000",
+        "Qty": 144,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "Customer_Discount_AMT",
+        "csvAmount": "-0.1400",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "Customer_Discount_AMT",
+        "csvAmount": "-0.1400",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "Customer_Discount_AMT",
+        "csvAmount": "-0.1400",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "Customer_Discount_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "Customer_Discount_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "Customer_Discount_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "DEBIT_CARD_AMT",
+        "csvAmount": "102.7900",
+        "Qty": 7,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "DEBIT_CARD_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "DEBIT_CARD_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "DEBIT_CARD_SALES_AMT",
+        "csvAmount": "102.7900",
+        "Qty": 7,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "DEBIT_CARD_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "DEBIT_CARD_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "DISCOUNT_AMT",
+        "csvAmount": "0.1400",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "DISCOUNT_AMT",
+        "csvAmount": "0.1400",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "DISCOUNT_AMT",
+        "csvAmount": "0.1400",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "DISCOUNT_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "DISCOUNT_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "DISCOUNT_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "GROSS RECEIPTS",
+        "xlAmount": "$4,769.52",
+        "csvDataKey": "GROSS_RECEIPTS_CALC",
+        "csvAmount": "4769.5200",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "GROSS SALES",
+        "xlAmount": "$5,247.26",
+        "csvDataKey": "GROSS_SALES_CALC",
+        "csvAmount": "5247.2600",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Coupons",
+        "xlAmount": "$477.60",
+        "csvDataKey": "Item_Discount_Amt",
+        "csvAmount": "477.6000",
+        "Qty": 144,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Coupons",
+        "xlAmount": "$477.60",
+        "csvDataKey": "Item_Discount_CNT",
+        "csvAmount": "144.0000",
+        "Qty": 144,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "EAT IN",
+        "xlAmount": "$746.85",
+        "csvDataKey": "LIST_BRAND_SALES_CNT",
+        "csvAmount": "58.0000",
+        "Qty": 58,
+        "drillDownDesc": "Reserved ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "2 Lunch",
+        "xlAmount": "$1,317.54",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "73.0000",
+        "Qty": 73,
+        "drillDownDesc": "1/3 Burgers ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- EBT Food Stamps",
+        "xlAmount": "$422.54",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "22.0000",
+        "Qty": 22,
+        "drillDownDesc": "1/3 TB Combo ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "3 Afternoon",
+        "xlAmount": "$861.17",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "66.0000",
+        "Qty": 66,
+        "drillDownDesc": "1/4 Burgers ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "3 Afternoon",
+        "xlAmount": "$861.17",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "66.0000",
+        "Qty": 66,
+        "drillDownDesc": "1/4 TB ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Void Orders",
+        "xlAmount": "$0.00",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "6.0000",
+        "Qty": 6,
+        "drillDownDesc": "2 Chs Burger ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Void Orders",
+        "xlAmount": "$0.00",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "6.0000",
+        "Qty": 6,
+        "drillDownDesc": "3pc Tender (DIP SC) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "3pc tender cmbos ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "DELIVERY",
+        "xlAmount": "$206.91",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "10.0000",
+        "Qty": 10,
+        "drillDownDesc": "5pc Tender Cmbo ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "7 Early Breakfast",
+        "xlAmount": "$189.49",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "10.0000",
+        "Qty": 10,
+        "drillDownDesc": "5pc Tender Cmbo ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Void Orders",
+        "xlAmount": "$0.00",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "6.0000",
+        "Qty": 6,
+        "drillDownDesc": "9pc Stars (DIP SC) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "All Star Meal ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "All Star Meal ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Void Orders",
+        "xlAmount": "$0.00",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "6.0000",
+        "Qty": 6,
+        "drillDownDesc": "ASM Choice ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Beyond TB (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Beyond TB (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "BFAST M&M CPN ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Uber Eats",
+        "xlAmount": "$88.52",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "3.0000",
+        "Qty": 3,
+        "drillDownDesc": "Big Chkn Sandwiches (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Void Orders",
+        "xlAmount": "$0.00",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "6.0000",
+        "Qty": 6,
+        "drillDownDesc": "Breakfast Burger Combo ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "Brkfast Grill Ch SM Combos (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Brkfst Bto Cmbos (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Brkfst Bto Cmbos (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Brkfst Bto Cmbos (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Uber Eats",
+        "xlAmount": "$88.52",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "3.0000",
+        "Qty": 3,
+        "drillDownDesc": "Brkfst Burritos (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Uber Eats",
+        "xlAmount": "$88.52",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "3.0000",
+        "Qty": 3,
+        "drillDownDesc": "Burritos ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Void Orders",
+        "xlAmount": "$0.00",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "6.0000",
+        "Qty": 6,
+        "drillDownDesc": "Double CB/Hot Dog ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Void Orders",
+        "xlAmount": "$0.00",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "6.0000",
+        "Qty": 6,
+        "drillDownDesc": "Double Cheese Burger ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Void Orders",
+        "xlAmount": "$0.00",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "6.0000",
+        "Qty": 6,
+        "drillDownDesc": "Famous CBO All (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Void Orders",
+        "xlAmount": "$0.00",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "6.0000",
+        "Qty": 6,
+        "drillDownDesc": "Famous Star Combo (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Fish Sand Combos (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Fish Sand Combos (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Fish Sand Combos (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Uber Eats",
+        "xlAmount": "$88.52",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "3.0000",
+        "Qty": 3,
+        "drillDownDesc": "Grill Ch Breakfast Combos (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Uber Eats",
+        "xlAmount": "$88.52",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "3.0000",
+        "Qty": 3,
+        "drillDownDesc": "HB CKN SAND ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "Kd 4 Ckn Star (DIP SC) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "KD ML ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "KD ML ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Kid Meal ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Kid Meal ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Kids Drinks ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Kids Drinks ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Kids Drinks ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Kids Meal ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Kids Meal ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Kids Menu ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Kids Menu ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Lg Breakfast Combos ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Lg Breakfast Combos ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Lg Breakfast Combos ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Lunch Dinner Combos ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Lunch Dinner Combos ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- EBT Food Stamps",
+        "xlAmount": "$422.54",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "22.0000",
+        "Qty": 22,
+        "drillDownDesc": "Malts/Shakes ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "DELIVERY",
+        "xlAmount": "$206.91",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "10.0000",
+        "Qty": 10,
+        "drillDownDesc": "Md Breakfast combos ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "7 Early Breakfast",
+        "xlAmount": "$189.49",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "10.0000",
+        "Qty": 10,
+        "drillDownDesc": "Md Breakfast combos ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Void Orders",
+        "xlAmount": "$0.00",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "6.0000",
+        "Qty": 6,
+        "drillDownDesc": "Misc ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "OG Bynd & BBQ Bynd (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "OG Bynd & BBQ Bynd (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Philly TB Combos (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Philly TB Combos (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Philly TB Combos (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Red Burritos ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Red Burritos ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Red Burritos ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "Retail ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "Salad Dressings ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Side Salads ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Side Salads ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Uber Eats",
+        "xlAmount": "$88.52",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "3.0000",
+        "Qty": 3,
+        "drillDownDesc": "Single Wstrn (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Void Orders",
+        "xlAmount": "$0.00",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "6.0000",
+        "Qty": 6,
+        "drillDownDesc": "SM ALL STAR ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Uber Eats",
+        "xlAmount": "$88.52",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "3.0000",
+        "Qty": 3,
+        "drillDownDesc": "Sm Breakfast Combo ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "DELIVERY",
+        "xlAmount": "$206.91",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "10.0000",
+        "Qty": 10,
+        "drillDownDesc": "Sm Coffees ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "7 Early Breakfast",
+        "xlAmount": "$189.49",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "10.0000",
+        "Qty": 10,
+        "drillDownDesc": "Sm Coffees ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "DELIVERY",
+        "xlAmount": "$206.91",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "10.0000",
+        "Qty": 10,
+        "drillDownDesc": "Sm Coffees ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "7 Early Breakfast",
+        "xlAmount": "$189.49",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "10.0000",
+        "Qty": 10,
+        "drillDownDesc": "Sm Coffees ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "5 LateNight",
+        "xlAmount": "$569.30",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "39.0000",
+        "Qty": 39,
+        "drillDownDesc": "Sm Fry/Sm HB (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "Sm Grl Chs Brkfst Cmbo (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "Small 1/3 TB Combos ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- EBT Food Stamps",
+        "xlAmount": "$422.54",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "22.0000",
+        "Qty": 22,
+        "drillDownDesc": "Smoothies ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Spicy Ckn Cmbos (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Spicy Ckn Cmbos (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Spicy Ckn Cmbos (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "StkEgCh Bis/Bto ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "StkEgCh Bis/Bto ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "StkEgCh Bis/Bto ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Western Burgers (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_CATEGORY_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Western Burgers (CPN) ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": "35.6500",
+        "Qty": 2,
+        "drillDownDesc": "American Express ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Expected Deposit",
+        "xlAmount": "$1,629.78",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": "1629.7800",
+        "Qty": null,
+        "drillDownDesc": "Cash ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": "102.7900",
+        "Qty": 7,
+        "drillDownDesc": "Debit Card ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": "138.0500",
+        "Qty": 7,
+        "drillDownDesc": "DoorDash ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- EBT Food Stamps",
+        "xlAmount": "$422.54",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": "422.5400",
+        "Qty": 22,
+        "drillDownDesc": "EBT Food Stamps ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Master Card",
+        "xlAmount": "$481.96",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": "481.9600",
+        "Qty": 30,
+        "drillDownDesc": "Master Card ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Uber Eats",
+        "xlAmount": "$88.52",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": "88.5200",
+        "Qty": 3,
+        "drillDownDesc": "Uber Eats ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Visa",
+        "xlAmount": "$1,870.23",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_AMT",
+        "csvAmount": "1870.2300",
+        "Qty": 100,
+        "drillDownDesc": "Visa ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "American Express ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Debit Card ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Debit Card ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "DoorDash ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "DoorDash ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- EBT Food Stamps",
+        "xlAmount": "$422.54",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_CNT",
+        "csvAmount": "22.0000",
+        "Qty": 22,
+        "drillDownDesc": "EBT Food Stamps ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Master Card",
+        "xlAmount": "$481.96",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_CNT",
+        "csvAmount": "30.0000",
+        "Qty": 30,
+        "drillDownDesc": "Master Card ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "CARRY OUT",
+        "xlAmount": "$416.69",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_CNT",
+        "csvAmount": "30.0000",
+        "Qty": 30,
+        "drillDownDesc": "Master Card ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Uber Eats",
+        "xlAmount": "$88.52",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_CNT",
+        "csvAmount": "3.0000",
+        "Qty": 3,
+        "drillDownDesc": "Uber Eats ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Visa",
+        "xlAmount": "$1,870.23",
+        "csvDataKey": "LIST_COLLECTED_PAYMENTS_CNT",
+        "csvAmount": "100.0000",
+        "Qty": 100,
+        "drillDownDesc": "Visa ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Uber Eats",
+        "xlAmount": "$88.52",
+        "csvDataKey": "LIST_COUPONS_AMT",
+        "csvAmount": "3.0000",
+        "Qty": 3,
+        "drillDownDesc": "10981-$1.79 Jala Pops ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_COUPONS_AMT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "11738-$3.49 FmsChs ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_COUPONS_AMT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "11855-$2 OFF Any PhillyChz TB Cbo  ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "10981-$1.79 Jala Pops ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "10981-$1.79 Jala Pops ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "10981-$1.79 Jala Pops ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "11143-$4.99 Beyond Famous ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "11313-$4.99 Beyond Famous ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11603-Free Sm FF/Drk w/ HB Ckn Sand ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11603-Free Sm FF/Drk w/ HB Ckn Sand ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11603-Free Sm FF/Drk w/ HB Ckn Sand ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11610-Free Big Carl w/ Big Carl Cmbo ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11610-Free Big Carl w/ Big Carl Cmbo ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11610-Free Big Carl w/ Big Carl Cmbo ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11646-2/$8.99 SuperChs ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11646-2/$8.99 SuperChs ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11646-2/$8.99 SuperChs ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11672-$2.99 Bkfst Burrito ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11672-$2.99 Bkfst Burrito ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11672-$2.99 Bkfst Burrito ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11738-$3.49 FmsChs ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11738-$3.49 FmsChs ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11738-$3.49 FmsChs ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "11786-$4.49 SuperChs ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "11827-2/$9 1/3 Orig TB ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11855-$2 OFF Any PhillyChz TB Cbo  ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11855-$2 OFF Any PhillyChz TB Cbo  ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "11855-$2 OFF Any PhillyChz TB Cbo  ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "1758-2/$9 1/3 Orig TB ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "1758-2/$9 1/3 Orig TB ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "1758-2/$9 1/3 Orig TB ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_COUPONS_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "299-$2.99 BIG CARL ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "1 Breakfast",
+        "xlAmount": "$796.34",
+        "csvDataKey": "LIST_DAYPART_SALES_AMT",
+        "csvAmount": "796.3400",
+        "Qty": 60,
+        "drillDownDesc": "1 Breakfast ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "2 Lunch",
+        "xlAmount": "$1,317.54",
+        "csvDataKey": "LIST_DAYPART_SALES_AMT",
+        "csvAmount": "1317.5400",
+        "Qty": 73,
+        "drillDownDesc": "2 Lunch ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "3 Afternoon",
+        "xlAmount": "$861.17",
+        "csvDataKey": "LIST_DAYPART_SALES_AMT",
+        "csvAmount": "861.1700",
+        "Qty": 66,
+        "drillDownDesc": "3 Afternoon ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "4 Dinner",
+        "xlAmount": "$360.06",
+        "csvDataKey": "LIST_DAYPART_SALES_AMT",
+        "csvAmount": "360.0600",
+        "Qty": 25,
+        "drillDownDesc": "4 Dinner ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "5 LateNight",
+        "xlAmount": "$569.30",
+        "csvDataKey": "LIST_DAYPART_SALES_AMT",
+        "csvAmount": "569.3000",
+        "Qty": 39,
+        "drillDownDesc": "5 LateNight ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "6 Graveyard",
+        "xlAmount": "$298.41",
+        "csvDataKey": "LIST_DAYPART_SALES_AMT",
+        "csvAmount": "298.4100",
+        "Qty": 19,
+        "drillDownDesc": "6 Graveyard ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "7 Early Breakfast",
+        "xlAmount": "$189.49",
+        "csvDataKey": "LIST_DAYPART_SALES_AMT",
+        "csvAmount": "189.4900",
+        "Qty": 10,
+        "drillDownDesc": "7 Early Breakfast ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "1 Breakfast",
+        "xlAmount": "$796.34",
+        "csvDataKey": "LIST_DAYPART_SALES_CNT",
+        "csvAmount": "60.0000",
+        "Qty": 60,
+        "drillDownDesc": "1 Breakfast ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "2 Lunch",
+        "xlAmount": "$1,317.54",
+        "csvDataKey": "LIST_DAYPART_SALES_CNT",
+        "csvAmount": "73.0000",
+        "Qty": 73,
+        "drillDownDesc": "2 Lunch ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "3 Afternoon",
+        "xlAmount": "$861.17",
+        "csvDataKey": "LIST_DAYPART_SALES_CNT",
+        "csvAmount": "66.0000",
+        "Qty": 66,
+        "drillDownDesc": "3 Afternoon ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "4 Dinner",
+        "xlAmount": "$360.06",
+        "csvDataKey": "LIST_DAYPART_SALES_CNT",
+        "csvAmount": "25.0000",
+        "Qty": 25,
+        "drillDownDesc": "4 Dinner ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "5 LateNight",
+        "xlAmount": "$569.30",
+        "csvDataKey": "LIST_DAYPART_SALES_CNT",
+        "csvAmount": "39.0000",
+        "Qty": 39,
+        "drillDownDesc": "5 LateNight ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "6 Graveyard",
+        "xlAmount": "$298.41",
+        "csvDataKey": "LIST_DAYPART_SALES_CNT",
+        "csvAmount": "19.0000",
+        "Qty": 19,
+        "drillDownDesc": "6 Graveyard ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "DELIVERY",
+        "xlAmount": "$206.91",
+        "csvDataKey": "LIST_DAYPART_SALES_CNT",
+        "csvAmount": "10.0000",
+        "Qty": 10,
+        "drillDownDesc": "7 Early Breakfast ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "7 Early Breakfast",
+        "xlAmount": "$189.49",
+        "csvDataKey": "LIST_DAYPART_SALES_CNT",
+        "csvAmount": "10.0000",
+        "Qty": 10,
+        "drillDownDesc": "7 Early Breakfast ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "Mar  4 2023  1:41:28AM  #030323",
+        "xlAmount": "$1,978.00",
+        "csvDataKey": "LIST_DEPOSIT_DETAIL_AMT",
+        "csvAmount": "1978.0000",
+        "Qty": null,
+        "drillDownDesc": "Mar  4 2023  1:41:28AM  #030323 ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Mar  4 2023 11:59:14PM  #67",
+        "xlAmount": "$1,630.01",
+        "csvDataKey": "LIST_DEPOSIT_DETAIL_AMT",
+        "csvAmount": "1630.0100",
+        "Qty": null,
+        "drillDownDesc": "Mar  4 2023 11:59:14PM  #67 ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Expected Deposit",
+        "xlAmount": "$1,629.78",
+        "csvDataKey": "LIST_DEPOSIT_PAYTYPE_AMT",
+        "csvAmount": "1629.7800",
+        "Qty": null,
+        "drillDownDesc": "Cash ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Expected Deposit",
+        "xlAmount": "$1,629.78",
+        "csvDataKey": "LIST_DEPOSIT_PAYTYPECAT_AMT",
+        "csvAmount": "1629.7800",
+        "Qty": null,
+        "drillDownDesc": "Cash ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Mar  4 2023  1:41:28AM  #030323",
+        "xlAmount": "$1,978.00",
+        "csvDataKey": "LIST_DEPOSIT_TRANS_DETAIL_AMT",
+        "csvAmount": "1978.0000",
+        "Qty": null,
+        "drillDownDesc": "Mar  4 2023  1:41:28AM #030323 Cash ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Mar  4 2023 11:59:14PM  #67",
+        "xlAmount": "$1,630.01",
+        "csvDataKey": "LIST_DEPOSIT_TRANS_DETAIL_AMT",
+        "csvAmount": "1630.0100",
+        "Qty": null,
+        "drillDownDesc": "Mar  4 2023 11:59:14PM #67 Cash ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Mar  4 2023  1:41:28AM  #030323",
+        "xlAmount": "$1,978.00",
+        "csvDataKey": "LIST_DEPOSIT_TRANS_PAYTYPECAT_AMT",
+        "csvAmount": "1978.0000",
+        "Qty": null,
+        "drillDownDesc": "Mar  4 2023  1:41:28AM #030323 Cash ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Mar  4 2023 11:59:14PM  #67",
+        "xlAmount": "$1,630.01",
+        "csvDataKey": "LIST_DEPOSIT_TRANS_PAYTYPECAT_AMT",
+        "csvAmount": "1630.0100",
+        "Qty": null,
+        "drillDownDesc": "Mar  4 2023 11:59:14PM #67 Cash ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_DEPOSIT_TRANS_PAYTYPECAT_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Mar  4 2023  1:41:28AM #030323 Cash ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_DEPOSIT_TRANS_PAYTYPECAT_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Mar  4 2023  1:41:28AM #030323 Cash ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_DEPOSIT_TRANS_PAYTYPECAT_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Mar  4 2023  1:41:28AM #030323 Cash ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_DEPOSIT_TRANS_PAYTYPECAT_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Mar  4 2023 11:59:14PM #67 Cash ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_DEPOSIT_TRANS_PAYTYPECAT_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Mar  4 2023 11:59:14PM #67 Cash ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_DEPOSIT_TRANS_PAYTYPECAT_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Mar  4 2023 11:59:14PM #67 Cash ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "Total Deposit",
+        "xlAmount": "$3,608.01",
+        "csvDataKey": "LIST_DEPOSITED_PAYMENTS_AMT",
+        "csvAmount": "3608.0100",
+        "Qty": null,
+        "drillDownDesc": "Cash ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "CARRY OUT",
+        "xlAmount": "$416.69",
+        "csvDataKey": "LIST_DESTINATION_SALES_AMT",
+        "csvAmount": "416.6900",
+        "Qty": 30,
+        "drillDownDesc": "CARRY OUT ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "DELIVERY",
+        "xlAmount": "$206.91",
+        "csvDataKey": "LIST_DESTINATION_SALES_AMT",
+        "csvAmount": "206.9100",
+        "Qty": 10,
+        "drillDownDesc": "DELIVERY ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "DRIVE THRU",
+        "xlAmount": "$3,021.86",
+        "csvDataKey": "LIST_DESTINATION_SALES_AMT",
+        "csvAmount": "3021.8600",
+        "Qty": 194,
+        "drillDownDesc": "DRIVE THRU ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "EAT IN",
+        "xlAmount": "$746.85",
+        "csvDataKey": "LIST_DESTINATION_SALES_AMT",
+        "csvAmount": "746.8500",
+        "Qty": 58,
+        "drillDownDesc": "EAT IN ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Master Card",
+        "xlAmount": "$481.96",
+        "csvDataKey": "LIST_DESTINATION_SALES_CNT",
+        "csvAmount": "30.0000",
+        "Qty": 30,
+        "drillDownDesc": "CARRY OUT ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "CARRY OUT",
+        "xlAmount": "$416.69",
+        "csvDataKey": "LIST_DESTINATION_SALES_CNT",
+        "csvAmount": "30.0000",
+        "Qty": 30,
+        "drillDownDesc": "CARRY OUT ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "DELIVERY",
+        "xlAmount": "$206.91",
+        "csvDataKey": "LIST_DESTINATION_SALES_CNT",
+        "csvAmount": "10.0000",
+        "Qty": 10,
+        "drillDownDesc": "DELIVERY ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "7 Early Breakfast",
+        "xlAmount": "$189.49",
+        "csvDataKey": "LIST_DESTINATION_SALES_CNT",
+        "csvAmount": "10.0000",
+        "Qty": 10,
+        "drillDownDesc": "DELIVERY ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "DRIVE THRU",
+        "xlAmount": "$3,021.86",
+        "csvDataKey": "LIST_DESTINATION_SALES_CNT",
+        "csvAmount": "194.0000",
+        "Qty": 194,
+        "drillDownDesc": "DRIVE THRU ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "EAT IN",
+        "xlAmount": "$746.85",
+        "csvDataKey": "LIST_DESTINATION_SALES_CNT",
+        "csvAmount": "58.0000",
+        "Qty": 58,
+        "drillDownDesc": "EAT IN ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_DISCOUNTS_AMT",
+        "csvAmount": "0.1400",
+        "Qty": 1,
+        "drillDownDesc": "99999-Senior Disc 10%-DISC ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_DISCOUNTS_AMT",
+        "csvAmount": "0.1400",
+        "Qty": 1,
+        "drillDownDesc": "99999-Senior Disc 10%-DISC ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_DISCOUNTS_AMT",
+        "csvAmount": "0.1400",
+        "Qty": 1,
+        "drillDownDesc": "99999-Senior Disc 10%-DISC ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_DISCOUNTS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "99999-Senior Disc 10%-DISC ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_DISCOUNTS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "99999-Senior Disc 10%-DISC ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_DISCOUNTS_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "99999-Senior Disc 10%-DISC ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_MAJORCAT_SALES_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "Retail ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_MINORCAT_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "All Star Meal ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_MINORCAT_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "All Star Meal ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "3 Afternoon",
+        "xlAmount": "$861.17",
+        "csvDataKey": "LIST_MINORCAT_SALES_CNT",
+        "csvAmount": "66.0000",
+        "Qty": 66,
+        "drillDownDesc": "Breakfast Items ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_MINORCAT_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Kids Drinks ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "LIST_MINORCAT_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Kids Drinks ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "LIST_MINORCAT_SALES_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": "Kids Drinks ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_MINORCAT_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Kids Meal ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_MINORCAT_SALES_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Kids Meal ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_MINORCAT_SALES_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "Promotional Tracking ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_AMT",
+        "csvAmount": "35.6500",
+        "Qty": 2,
+        "drillDownDesc": "American Express ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_AMT",
+        "csvAmount": "102.7900",
+        "Qty": 7,
+        "drillDownDesc": "Debit Card ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_AMT",
+        "csvAmount": "138.0500",
+        "Qty": 7,
+        "drillDownDesc": "DoorDash ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- EBT Food Stamps",
+        "xlAmount": "$422.54",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_AMT",
+        "csvAmount": "422.5400",
+        "Qty": 22,
+        "drillDownDesc": "EBT Food Stamps ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Master Card",
+        "xlAmount": "$481.96",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_AMT",
+        "csvAmount": "481.9600",
+        "Qty": 30,
+        "drillDownDesc": "Master Card ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Uber Eats",
+        "xlAmount": "$88.52",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_AMT",
+        "csvAmount": "88.5200",
+        "Qty": 3,
+        "drillDownDesc": "Uber Eats ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Visa",
+        "xlAmount": "$1,870.23",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_AMT",
+        "csvAmount": "1870.2300",
+        "Qty": 100,
+        "drillDownDesc": "Visa ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_CNT",
+        "csvAmount": "2.0000",
+        "Qty": 2,
+        "drillDownDesc": "American Express ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Debit Card ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "Debit Card ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "DoorDash ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_CNT",
+        "csvAmount": "7.0000",
+        "Qty": 7,
+        "drillDownDesc": "DoorDash ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- EBT Food Stamps",
+        "xlAmount": "$422.54",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_CNT",
+        "csvAmount": "22.0000",
+        "Qty": 22,
+        "drillDownDesc": "EBT Food Stamps ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Master Card",
+        "xlAmount": "$481.96",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_CNT",
+        "csvAmount": "30.0000",
+        "Qty": 30,
+        "drillDownDesc": "Master Card ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "CARRY OUT",
+        "xlAmount": "$416.69",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_CNT",
+        "csvAmount": "30.0000",
+        "Qty": 30,
+        "drillDownDesc": "Master Card ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Uber Eats",
+        "xlAmount": "$88.52",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_CNT",
+        "csvAmount": "3.0000",
+        "Qty": 3,
+        "drillDownDesc": "Uber Eats ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Visa",
+        "xlAmount": "$1,870.23",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPE_CNT",
+        "csvAmount": "100.0000",
+        "Qty": 100,
+        "drillDownDesc": "Visa ",
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPECAT_AMT",
+        "csvAmount": "102.7900",
+        "Qty": 7,
+        "drillDownDesc": "Debit Card ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- EBT Food Stamps",
+        "xlAmount": "$422.54",
+        "csvDataKey": "LIST_NONDEPOSIT_PAYTYPECAT_AMT",
+        "csvAmount": "422.5400",
+        "Qty": 22,
+        "drillDownDesc": "EBT ",
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "csvDataKey": "LIST_OVERSHORT_PAYMENTS_AMT",
+        "csvAmount": "-35.6500",
+        "Qty": 2,
+        "drillDownDesc": "American Express ",
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Expected Deposit",
+        "xlAmount": "$1,629.78",
+        "csvDataKey": "LIST_OVERSHORT_PAYMENTS_AMT",
+        "csvAmount": "-1629.7800",
+        "Qty": null,
+        "drillDownDesc": "Cash ",
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "csvDataKey": "LIST_OVERSHORT_PAYMENTS_AMT",
+        "csvAmount": "-102.7900",
+        "Qty": 7,
+        "drillDownDesc": "Debit Card ",
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "csvDataKey": "LIST_OVERSHORT_PAYMENTS_AMT",
+        "csvAmount": "-138.0500",
+        "Qty": 7,
+        "drillDownDesc": "DoorDash ",
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- EBT Food Stamps",
+        "xlAmount": "$422.54",
+        "csvDataKey": "LIST_OVERSHORT_PAYMENTS_AMT",
+        "csvAmount": "-422.5400",
+        "Qty": 22,
+        "drillDownDesc": "EBT Food Stamps ",
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Master Card",
+        "xlAmount": "$481.96",
+        "csvDataKey": "LIST_OVERSHORT_PAYMENTS_AMT",
+        "csvAmount": "-481.9600",
+        "Qty": 30,
+        "drillDownDesc": "Master Card ",
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Uber Eats",
+        "xlAmount": "$88.52",
+        "csvDataKey": "LIST_OVERSHORT_PAYMENTS_AMT",
+        "csvAmount": "-88.5200",
+        "Qty": 3,
+        "drillDownDesc": "Uber Eats ",
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Visa",
+        "xlAmount": "$1,870.23",
+        "csvDataKey": "LIST_OVERSHORT_PAYMENTS_AMT",
+        "csvAmount": "-1870.2300",
+        "Qty": 100,
+        "drillDownDesc": "Visa ",
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Total Net Sales",
+        "xlAmount": "$4,392.31",
+        "csvDataKey": "NET_FOOD_NONROYALTY_SALES_CALC",
+        "csvAmount": "4392.3100",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "csvDataKey": "NET_FOOD_NONROYALTY_SALES_CALC",
+        "csvAmount": "4392.3100",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "csvDataKey": "NET_FOOD_NONROYALTY_SALES_CALC",
+        "csvAmount": "4392.3100",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Total Net Sales",
+        "xlAmount": "$4,392.31",
+        "csvDataKey": "NET_FOOD_SALES_CALC",
+        "csvAmount": "4392.3100",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "csvDataKey": "NET_FOOD_SALES_CALC",
+        "csvAmount": "4392.3100",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "csvDataKey": "NET_FOOD_SALES_CALC",
+        "csvAmount": "4392.3100",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Expected Deposit",
+        "xlAmount": "$1,629.78",
+        "csvDataKey": "NET_RECEIPTS_CALC",
+        "csvAmount": "1629.7800",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Total Net Sales",
+        "xlAmount": "$4,392.31",
+        "csvDataKey": "NET_SALES_CALC",
+        "csvAmount": "4392.3100",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "csvDataKey": "NET_SALES_CALC",
+        "csvAmount": "4392.3100",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "csvDataKey": "NET_SALES_CALC",
+        "csvAmount": "4392.3100",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "Order_Discount_AMT",
+        "csvAmount": "0.1400",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "Order_Discount_AMT",
+        "csvAmount": "0.1400",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "Order_Discount_AMT",
+        "csvAmount": "0.1400",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "csvDataKey": "Order_Discount_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "csvDataKey": "Order_Discount_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "csvDataKey": "Order_Discount_CNT",
+        "csvAmount": "1.0000",
+        "Qty": 1,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "OverTime Labor",
+        "xlAmount": "$27.36",
+        "csvDataKey": "OVERTIME_HOURS",
+        "csvAmount": "0.9833",
+        "Qty": 0.9833,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "GROSS SALES",
+        "xlAmount": "$5,247.26",
+        "csvDataKey": "PAID_ORDERS_AMT",
+        "csvAmount": "5247.2600",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Check Count / Average",
+        "xlAmount": "$0.00",
+        "csvDataKey": "PAID_ORDERS_CNT",
+        "csvAmount": "292.0000",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "csvDataKey": "PAID_ORDERS_CNT",
+        "csvAmount": "292.0000",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "csvDataKey": "PAID_ORDERS_CNT",
+        "csvAmount": "292.0000",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Sales Tax",
+        "xlAmount": "$377.21",
+        "csvDataKey": "PAID_SALES_TAX_AMT",
+        "csvAmount": "377.2100",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "+ Sales Tax",
+        "xlAmount": "$377.21",
+        "csvDataKey": "PAID_SALES_TAX_AMT",
+        "csvAmount": "377.2100",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Regular Labor",
+        "xlAmount": "$914.24",
+        "csvDataKey": "REGULAR_HOURS",
+        "csvAmount": "55.3000",
+        "Qty": 55.3,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Sales Tax",
+        "xlAmount": "$377.21",
+        "csvDataKey": "TAX1_AMT",
+        "csvAmount": "377.2100",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "+ Sales Tax",
+        "xlAmount": "$377.21",
+        "csvDataKey": "TAX1_AMT",
+        "csvAmount": "377.2100",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Total Net Sales",
+        "xlAmount": "$4,392.31",
+        "csvDataKey": "TAXABLE_SALES_AMT",
+        "csvAmount": "4392.3100",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "csvDataKey": "TAXABLE_SALES_AMT",
+        "csvAmount": "4392.3100",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "csvDataKey": "TAXABLE_SALES_AMT",
+        "csvAmount": "4392.3100",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Total Deposit",
+        "xlAmount": "$3,608.01",
+        "csvDataKey": "TOTAL_DEPOSIT_AMT",
+        "csvAmount": "3608.0100",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Expected Deposit",
+        "xlAmount": "$1,629.78",
+        "csvDataKey": "TOTAL_DEPOSITABLE_PAYEMENTS_AMT",
+        "csvAmount": "1629.7800",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Totals:",
+        "xlAmount": "$941.60",
+        "csvDataKey": "TOTAL_HOURS",
+        "csvAmount": "56.2833",
+        "Qty": 56.2833,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Void Orders",
+        "xlAmount": "$0.00",
+        "csvDataKey": "TOTAL_NETVOIDED_SALES_CNT",
+        "csvAmount": "6.0000",
+        "Qty": 6,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "Total of Non-Deposit",
+        "xlAmount": "$3,139.74",
+        "csvDataKey": "TOTAL_NONDEPOSIT_AMT",
+        "csvAmount": "3139.7400",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "GROSS RECEIPTS",
+        "xlAmount": "$4,769.52",
+        "csvDataKey": "TOTAL_PAYMENTS_COLLECTED_AMT",
+        "csvAmount": "4769.5200",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Total Net Sales",
+        "xlAmount": "$4,392.31",
+        "csvDataKey": "TOTAL_REVENUE_CALC",
+        "csvAmount": "4392.3100",
+        "Qty": null,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "csvDataKey": "TOTAL_REVENUE_CALC",
+        "csvAmount": "4392.3100",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "csvDataKey": "TOTAL_REVENUE_CALC",
+        "csvAmount": "4392.3100",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "- Void Orders",
+        "xlAmount": "$0.00",
+        "csvDataKey": "TOTAL_VOIDS_CNT",
+        "csvAmount": "6.0000",
+        "Qty": 6,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "Check Count / Average",
+        "xlAmount": "$0.00",
+        "csvDataKey": "TRANSACTION_CNT",
+        "csvAmount": "292.0000",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "csvDataKey": "TRANSACTION_CNT",
+        "csvAmount": "292.0000",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "csvDataKey": "TRANSACTION_CNT",
+        "csvAmount": "292.0000",
+        "Qty": 292,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "DELIVERY",
+        "xlAmount": "$206.91",
+        "csvDataKey": "VIA_CAT_AMT",
+        "csvAmount": "206.9100",
+        "Qty": 10,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "2 Lunch",
+        "xlAmount": "$1,317.54",
+        "csvDataKey": "VIA_CAT_CNT",
+        "csvAmount": "73.0000",
+        "Qty": 73,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "Void Items",
+        "xlAmount": "$210.80",
+        "csvDataKey": "VOIDED_ITEMS_AMT",
+        "csvAmount": "210.8000",
+        "Qty": 90,
+        "drillDownDesc": null,
+        "type": "Amount"
+    },
+    {
+        "xlDataKey": "Void Items",
+        "xlAmount": "$210.80",
+        "csvDataKey": "VOIDED_ITEMS_CNT",
+        "csvAmount": "90.0000",
+        "Qty": 90,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "- Void Orders",
+        "xlAmount": "$0.00",
+        "csvDataKey": "VOIDED_ORDERS_CNT",
+        "csvAmount": "6.0000",
+        "Qty": 6,
+        "drillDownDesc": null,
+        "type": "Qty"
+    },
+    {
+        "xlDataKey": "GROSS SALES",
+        "xlAmount": "$5,247.26",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Void Orders",
+        "xlAmount": "$0.00",
+        "Qty": 6,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Refunds",
+        "xlAmount": "$0.00",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Discounts",
+        "xlAmount": "$0.14",
+        "Qty": 1,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Coupons",
+        "xlAmount": "$477.60",
+        "Qty": 144,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Mgr Comps",
+        "xlAmount": "$0.00",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Menu Waste",
+        "xlAmount": "$0.00",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Sales Tax",
+        "xlAmount": "$377.21",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Net Exempt Sales",
+        "xlAmount": "$0.00",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Total Net Sales",
+        "xlAmount": "$4,392.31",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "+ Net Exempt Sales",
+        "xlAmount": "$0.00",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "+ Sales Tax",
+        "xlAmount": "$377.21",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "+ Paid Ins",
+        "xlAmount": "$0.00",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Paid Outs",
+        "xlAmount": "$0.00",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "GROSS RECEIPTS",
+        "xlAmount": "$4,769.52",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Non-Deposit Paytypes",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Visa",
+        "xlAmount": "$1,870.23",
+        "Qty": 100,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Master Card",
+        "xlAmount": "$481.96",
+        "Qty": 30,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- American Express",
+        "xlAmount": "$35.65",
+        "Qty": 2,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- EBT Food Stamps",
+        "xlAmount": "$422.54",
+        "Qty": 22,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Uber Eats",
+        "xlAmount": "$88.52",
+        "Qty": 3,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- DoorDash",
+        "xlAmount": "$138.05",
+        "Qty": 7,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "- Debit Card",
+        "xlAmount": "$102.79",
+        "Qty": 7,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Total of Non-Deposit",
+        "xlAmount": "$3,139.74",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Expected Deposit",
+        "xlAmount": "$1,629.78",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Total Deposit",
+        "xlAmount": "$3,608.01",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Cash/Over Short",
+        "xlAmount": "$1,978.23",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "DEPOSIT DETAILS",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Mar  4 2023  1:41:28AM  #030323",
+        "xlAmount": "$1,978.00",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Mar  4 2023 11:59:14PM  #67",
+        "xlAmount": "$1,630.01",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "MISC INFO",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Check Count / Average",
+        "xlAmount": "$0.00",
+        "Qty": 292,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Cancelled Items",
+        "xlAmount": "$1,177.35",
+        "Qty": 431,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Cleared Orders",
+        "xlAmount": "$0.00",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Void Items",
+        "xlAmount": "$210.80",
+        "Qty": 90,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Cash Pulls",
+        "xlAmount": "$0.00",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Tax Exempt",
+        "xlAmount": "$0.00",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "No Sales",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Dbl Sliders",
+        "xlAmount": "$0.00",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "NET EXEMPT INFO",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "",
+        "xlAmount": "$0.00",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0,
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "DESTINATION SALES",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "DRIVE THRU",
+        "xlAmount": "$3,021.86",
+        "Qty": 194,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "EAT IN",
+        "xlAmount": "$746.85",
+        "Qty": 58,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "CARRY OUT",
+        "xlAmount": "$416.69",
+        "Qty": 30,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "DELIVERY",
+        "xlAmount": "$206.91",
+        "Qty": 10,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "Qty": 292,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "DAY PART SALES",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "1 Breakfast",
+        "xlAmount": "$796.34",
+        "Qty": 60,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "2 Lunch",
+        "xlAmount": "$1,317.54",
+        "Qty": 73,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "3 Afternoon",
+        "xlAmount": "$861.17",
+        "Qty": 66,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "4 Dinner",
+        "xlAmount": "$360.06",
+        "Qty": 25,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "5 LateNight",
+        "xlAmount": "$569.30",
+        "Qty": 39,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "6 Graveyard",
+        "xlAmount": "$298.41",
+        "Qty": 19,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "7 Early Breakfast",
+        "xlAmount": "$189.49",
+        "Qty": 10,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 4392.31,
+        "Qty": 292,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "LABOR:",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Regular Labor",
+        "xlAmount": "$914.24",
+        "Qty": 55.3,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "OverTime Labor",
+        "xlAmount": "$27.36",
+        "Qty": 0.9833,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "DoubleTime Labor",
+        "xlAmount": "$0.00",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "Totals:",
+        "xlAmount": "$941.60",
+        "Qty": 56.2833,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "DISCOUNTS",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "99999-Senior Disc 10%-DISC",
+        "xlAmount": "$0.14",
+        "Qty": 1,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0.14,
+        "Qty": 1,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "PAID OUTS",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "No Paid Outs",
+        "xlAmount": "$0.00",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "TOTALS:",
+        "xlAmount": 0,
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "PAID INS",
+        "xlAmount": "",
+        "Qty": null,
+        "type": "PER"
+    },
+    {
+        "xlDataKey": "No Paid Ins",
+        "xlAmount": "$0.00",
+        "Qty": null,
+        "type": "PER"
+    }
+]
